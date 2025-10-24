@@ -9,7 +9,7 @@ NICK = "AIBot"
 IDENT = "AIBot"
 REALNAME = "AI Assistant Bot"
 CHANNEL = "#startrek"           # Channel to join
-OWNER = "Jazzzzz"               # Your nick (optional, for owner commands)
+OWNER = "Owner-Nick"               # Your nick (optional, for owner commands)
 
 openai.api_key = "YOUR_API_KEY"  # Put your OpenAI API key here
 
